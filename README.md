@@ -11,5 +11,6 @@ sehir_isim2 <- "istanbul"
 
 Şehir isimleri default olarak Ankara ve İstanbul seçilmiştir. Türkiye'deki şehirlerden herhangi biri/ikisi küçük harfler ve türkçe karakter içermeyen şekilde yazıldığında o şehirlere ait veri de çekilebilmektedir.
 
-Veri kaynağı: TomTom International BV
-https://www.tomtom.com/en_gb/traffic-index/ranking/
+Referanslar:
+[1] TomTom, 2020. “Istanbul traffic report”. Kaynak: https://www.tomtom.com/en_gb/traffic-index/istanbul-traffic/
+[1] TomTom, 2020. “Ankara traffic report”. Kaynak: https://www.tomtom.com/en_gb/traffic-index/ankara-traffic/
