@@ -13,4 +13,4 @@ sehir_isim2 <- "istanbul"
 
 Referanslar:
 [1] TomTom, 2020. “Istanbul traffic report”. Kaynak: https://www.tomtom.com/en_gb/traffic-index/istanbul-traffic/
-[1] TomTom, 2020. “Ankara traffic report”. Kaynak: https://www.tomtom.com/en_gb/traffic-index/ankara-traffic/
+[2] TomTom, 2020. “Ankara traffic report”. Kaynak: https://www.tomtom.com/en_gb/traffic-index/ankara-traffic/
