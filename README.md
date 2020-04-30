@@ -6,8 +6,18 @@ TomTom JSON API kullanılarak yapılan veri kazıma işleminin sonucunda:
 "RaporlananGecikme", "CanlıEndeks", "Tarih", "TrafikUzunlugu(km)","TrafikSayisi"
 değerlerine ulaşılabilmektedir.
 
+###Ankara Trafiği Örnek
+
+![](https://github.com/tolgakurtuluss/tomtomtrafikendeksi/blob/master/01.jpeg)
+
+###Ankara Trafiği Örnek - 2
+
+![](https://github.com/tolgakurtuluss/tomtomtrafikendeksi/blob/master/02.jpeg)
+
+```
 sehir_isim1 <- "ankara"
 sehir_isim2 <- "istanbul"
+```
 
 Şehir isimleri default olarak Ankara ve İstanbul seçilmiştir. Türkiye'deki şehirlerden herhangi biri/ikisi küçük harfler ve türkçe karakter içermeyen şekilde yazıldığında o şehirlere ait veri de çekilebilmektedir.
 
