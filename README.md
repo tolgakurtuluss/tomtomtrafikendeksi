@@ -6,13 +6,13 @@ TomTom JSON API kullanılarak yapılan veri kazıma işleminin sonucunda:
 "RaporlananGecikme", "CanlıEndeks", "Tarih", "TrafikUzunlugu(km)","TrafikSayisi"
 değerlerine ulaşılabilmektedir.
 
-###Ankara Trafiği Örnek
+#Ankara Trafiği Örnek#
 
 ![](https://github.com/tolgakurtuluss/tomtomtrafikendeksi/blob/master/01.jpeg)
 
-###Ankara Trafiği Örnek - 2
+#Şehirler Arası Karşılaştırma#
 
-![](https://github.com/tolgakurtuluss/tomtomtrafikendeksi/blob/master/02.jpeg)
+![](https://github.com/tolgakurtuluss/tomtomtrafikendeksi/blob/master/03.jpeg)
 
 ```
 sehir_isim1 <- "ankara"
